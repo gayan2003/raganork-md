@@ -1,5 +1,5 @@
 {
-	"name": "Deploy",
+	"name": "Queen Tharu",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
@@ -15,7 +15,7 @@
         },
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
-            "required": false,
+            "required": true,
             "value":"jid,jid"
         },
         "READ_MESSAGES": {
